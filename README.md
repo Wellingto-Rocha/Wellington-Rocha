@@ -8,4 +8,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Rocha2&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington-rocha&show_icons=true&theme=radical)
