@@ -1,1 +1,3 @@
-# Wellington-Rocha
+- 👋 Olá!, eu sou o Wellington Rocha
+- 🌱 Eu estou cursando Engenharia de Software.
+- 📫 Como chegar ate mim - wellingtonfr18@gmail.com
