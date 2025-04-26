@@ -6,6 +6,10 @@
   <a href="https://github.com/Wellingto-Rocha">
 ![Anurag's GitHub stat(https://github-readme-stats.vercel.app/api?username=wellington-rocha&show_icons=true&theme=dark)
 </div>
+
+<div>
+  http://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+</div>
 <div>
 <a href="https://www.youtube.com/@wellingtonrocha1386 target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 <a href="https://www.youtube.com/@wellingtonrocha1386 target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
