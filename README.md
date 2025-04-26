@@ -2,7 +2,7 @@
 - 💻 Eu trabalho com Analise de dados
 - 🌱 Eu estou cursando Engenharia de Software.
 - 📫 Como chegar ate mim - wellingtonfr18@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ele/dele
 
 
 <div>
