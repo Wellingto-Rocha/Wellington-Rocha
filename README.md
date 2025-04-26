@@ -6,7 +6,7 @@
 
 
 <div>
-  <a href="https://beacons.ai/Wellington-Rocha">
+  <a href="https://www.instagram.com/wellington_frocha/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welligton-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-rocha&layout=compact&langs_count=16&theme=dark"/>
 </div>
