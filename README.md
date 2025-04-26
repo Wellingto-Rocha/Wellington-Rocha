@@ -2,7 +2,7 @@
 - 💻 Eu trabalho com Analise de dados
 - 🌱 Eu estou cursando Engenharia de Software.
 - 📫 Como chegar ate mim - wellingtonfr18@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingto-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingto-Rocha&layout=compact&langs_count=16&theme=dark"/>
