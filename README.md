@@ -4,7 +4,7 @@
 - 📫 Como chegar ate mim - wellingtonfr18@gmail.com
 - 😄 Pronomes: ele/dele
 
-## *Meus interesses na area de TI/TIC* ##
+🚀## *Meus interesses na area de TI/TIC* ##🚀
 *Me formar Eng. de Software, desenvorver projetos pessoais e empresariais, aperfeiçoar minhas habilidades em lógica, banco de dados e Python!*
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingto-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
