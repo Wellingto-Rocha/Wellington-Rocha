@@ -3,7 +3,7 @@
 - 🌱 Eu estou cursando Engenharia de Software.
 - 📫 Como chegar ate mim - wellingtonfr18@gmail.com
 <div>
-  <a href="https://github.com/Wellingto-Rocha>
+  <a href="https://github.com/Wellingto-Rocha">
 ![Anurag's GitHub stat(https://github-readme-stats.vercel.app/api?username=wellington-rocha&show_icons=true&theme=dark)
 </div>
 <div>
