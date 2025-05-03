@@ -11,6 +11,8 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingto-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
+  ![Snake animation](https://github.com/Wellingto-Rocha/blob/output/github-contribution-grid-snake.svg)
+
 ## Linguagens mais usadas
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingto-Rocha&layout=compact&langs_count=16&theme=dark"/>
 </div>
