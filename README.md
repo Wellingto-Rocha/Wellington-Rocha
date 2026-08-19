@@ -3,7 +3,7 @@
 - 🌱 Eu estou cursando Engenharia de Software.
 - 📫 Como chegar ate mim - wellingtonfr18@gmail.com
 
-##  🚀*Meus interesses na area de TI/TIC*🚀
+##  🚀*Meus interesses na area de TI*🚀
 *Me formar Eng. de Software, desenvorver projetos pessoais e empresariais, aperfeiçoar minhas habilidades em lógica, banco de dados e Python!*
 
 ##  Minha Estatísticas
